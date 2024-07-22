@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+nltk==3.5
+APScheduler
